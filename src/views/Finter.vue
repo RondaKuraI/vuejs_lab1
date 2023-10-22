@@ -1,12 +1,20 @@
 <template>
     <div>
-        <h1>Finter</h1>
+        <Hero/>
+        <Section/>
     </div>
 </template>
 
 <script>
+import Hero from '@/Finter/Hero.vue';
+import Section from '@/Finter/Section.vue';
+
 export default {
-    
+    name: 'Finter',
+    components: {
+        Hero,
+        Section
+    }
 }
 </script>
 
