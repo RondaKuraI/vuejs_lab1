@@ -7,7 +7,7 @@
     <header class="header_section">
       <div class="header_top">
         <div class="container-fluid header_top_container">
-
+                          
           <div class="contact_nav">
             <a href="">
               <i class="fa fa-map-marker" aria-hidden="true"></i>
@@ -28,6 +28,7 @@
               </span>
             </a>
           </div>
+                        
           <div class="social_box">
             <a href="">
               <i class="fa fa-facebook" aria-hidden="true"></i>
@@ -58,6 +59,7 @@
                 <li class="nav-item active">
                   <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
                 </li>
+                <!--
                 <li class="nav-item">
                   <a class="nav-link" href="about.html"> About</a>
                 </li>
@@ -67,8 +69,9 @@
                 <li class="nav-item">
                   <a class="nav-link" href="team.html"> Team </a>
                 </li>
+                -->
                 <li class="nav-item">
-                  <a class="nav-link" href="contact.html">Contact Us</a>
+                  <a class="nav-link" href="/manage">Fashion</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="#">
