@@ -1,7 +1,7 @@
 <template>
       <div class="hero_area">
     <div class="hero_bg_box">
-      <img src="/assets/finter/images/hero-bg.jpg" alt="">
+      <img src="@/assets/finter/images/hero-bg.jpg" alt="">
     </div>
     <!-- header section strats -->
     <header class="header_section">

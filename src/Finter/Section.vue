@@ -17,7 +17,7 @@
             <div class="item">
               <div class="box ">
                 <div class="img-box">
-                  <img src="/assets/finter/images/s1.png" alt="" />
+                  <img src="@/assets/finter/images/s1.png" alt="" />
                 </div>
                 <div class="detail-box">
                   <h5>
@@ -33,7 +33,7 @@
             <div class="item">
               <div class="box ">
                 <div class="img-box">
-                  <img src="/assets/finter/images/s4.png" alt="" />
+                  <img src="@/assets/finter/images/s4.png" alt="" />
                 </div>
                 <div class="detail-box">
                   <h5>
@@ -49,7 +49,7 @@
             <div class="item">
               <div class="box ">
                 <div class="img-box">
-                  <img src="/assets/finter/images/s6.png" alt="" />
+                  <img src="@/assets/finter/images/s6.png" alt="" />
                 </div>
                 <div class="detail-box">
                   <h5>
@@ -65,7 +65,7 @@
             <div class="item">
               <div class="box ">
                 <div class="img-box">
-                  <img src="/assets/finter/images/s1.png" alt="" />
+                  <img src="@/assets/finter/images/s1.png" alt="" />
                 </div>
                 <div class="detail-box">
                   <h5>
@@ -81,7 +81,7 @@
             <div class="item">
               <div class="box ">
                 <div class="img-box">
-                  <img src="/assets/finter/images/s4.png" alt="" />
+                  <img src="@/assets/finter/images/s4.png" alt="" />
                 </div>
                 <div class="detail-box">
                   <h5>
@@ -97,7 +97,7 @@
             <div class="item">
               <div class="box ">
                 <div class="img-box">
-                  <img src="/assets/finter/images/s6.png" alt="" />
+                  <img src="@/assets/finter/images/s6.png" alt="" />
                 </div>
                 <div class="detail-box">
                   <h5>
@@ -145,7 +145,7 @@
         </div>
         <div class="col-md-6 px-0">
           <div class="img-box ">
-            <img src="/assets/finter/images/about-img.jpg" class="box_img" alt="about img">
+            <img src="@/assets/finter/images/about-img.jpg" class="box_img" alt="about img">
           </div>
         </div>
       </div>
@@ -171,7 +171,7 @@
         <div class="col-md-4 col-sm-6 mx-auto">
           <div class="box">
             <div class="img-box">
-              <img src="/assets/finter/images/t1.jpg" alt="">
+              <img src="@/assets/finter/images/t1.jpg" alt="">
             </div>
             <div class="detail-box">
               <h5>
@@ -186,7 +186,7 @@
         <div class="col-md-4 col-sm-6 mx-auto">
           <div class="box">
             <div class="img-box">
-              <img src="/assets/finter/images/t2.jpg" alt="">
+              <img src="@/assets/finter/images/t2.jpg" alt="">
             </div>
             <div class="detail-box">
               <h5>
@@ -201,7 +201,7 @@
         <div class="col-md-4 col-sm-6 mx-auto">
           <div class="box">
             <div class="img-box">
-              <img src="/assets/finter/images/t3.jpg" alt="">
+              <img src="@/assets/finter/images/t3.jpg" alt="">
             </div>
             <div class="detail-box">
               <h5>
@@ -226,7 +226,7 @@
       <div class="row">
         <div class="col-md-6 px-0">
           <div class="img-box ">
-            <img src="/assets/finter/images/contact-img.jpg" class="box_img" alt="about img">
+            <img src="@/assets/finter/images/contact-img.jpg" class="box_img" alt="about img">
           </div>
         </div>
         <div class="col-md-5 mx-auto">
@@ -293,7 +293,7 @@
               <div class="col-lg-7 col-md-9 mx-auto">
                 <div class="client_container ">
                   <div class="img-box">
-                    <img src="/assets/finter/images/client.jpg" alt="">
+                    <img src="@/assets/finter/images/client.jpg" alt="">
                   </div>
                   <div class="detail-box">
                     <h5>
@@ -315,7 +315,7 @@
               <div class="col-lg-7 col-md-9 mx-auto">
                 <div class="client_container ">
                   <div class="img-box">
-                    <img src="/assets/finter/images/client.jpg" alt="">
+                    <img src="@/assets/finter/images/client.jpg" alt="">
                   </div>
                   <div class="detail-box">
                     <h5>
@@ -337,7 +337,7 @@
               <div class="col-lg-7 col-md-9 mx-auto">
                 <div class="client_container ">
                   <div class="img-box">
-                    <img src="/assets/finter/images/client.jpg" alt="">
+                    <img src="@/assets/finter/images/client.jpg" alt="">
                   </div>
                   <div class="detail-box">
                     <h5>
